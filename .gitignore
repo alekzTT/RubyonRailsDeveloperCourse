@@ -67,3 +67,6 @@ _yardoc
 .profile
 .profileE
 .ssh/
+
+*.irb-history
+.npm/*

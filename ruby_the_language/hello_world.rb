@@ -1,23 +1,20 @@
 puts "Hello World"
 puts("puts")
 
-
-
 #vars
-hello ="Hello Ruby Dev!! "
+hello ="Hello Ruby Dev!!! "
 puts hello
 
 #method / function 
 def speak
-    puts "hello Method"
+    puts "hello from method"
 end
 
 speak
 
-
 #method / function  with arguments
 def speak(name)
-    puts "HELLO "+name
+    puts "Hello "+name
 end
 
-speak "ALEX"
+speak "Alex."
