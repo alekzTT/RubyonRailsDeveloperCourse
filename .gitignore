@@ -3,7 +3,7 @@ node_modules
 .c9
 .DS_Store
 Thumbs.db
-
+.bash_history
 # C/C++
 *.slo
 *.lo

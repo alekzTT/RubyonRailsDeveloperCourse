@@ -1,0 +1,16 @@
+#github.com/bbatsov/ruby-style-guide
+#cloud9 ->Open your init script and paste 
+#services.settings.set("project/ace/@tabSize", 2);
+
+#Ruby has its Own Style Guide ( :) )
+#Basics guide
+=begin
+
+Soft tabs: 2 spaces, convert tabs to spaces
+class names: CamelCase
+ThisIsCamelCase
+file names: snake_case
+this_is_snake_case.rb
+Create and assign a variable with a long name like this: 
+my_new_variable = "Create long named variables like this"
+=end
