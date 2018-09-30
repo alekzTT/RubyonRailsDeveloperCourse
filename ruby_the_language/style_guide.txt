@@ -1,6 +1,10 @@
 #github.com/bbatsov/ruby-style-guide
+
+#2 spaces in cloud9
 #cloud9 ->Open your init script and paste 
 #services.settings.set("project/ace/@tabSize", 2);
+
+#tryruby.org  -> 15 minutes interactive tutorial on Ruby
 
 #Ruby has its Own Style Guide ( :) )
 #Basics guide
