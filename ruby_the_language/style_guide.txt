@@ -5,6 +5,7 @@
 #services.settings.set("project/ace/@tabSize", 2);
 
 #tryruby.org  -> 15 minutes interactive tutorial on Ruby
+#new link :: https://ruby.github.io/TryRuby/
 
 #Ruby has its Own Style Guide ( :) )
 #Basics guide
