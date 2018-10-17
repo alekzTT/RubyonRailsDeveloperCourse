@@ -70,3 +70,4 @@ _yardoc
 
 *.irb-history
 .npm/*
+./local
