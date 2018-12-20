@@ -30,6 +30,7 @@
   color: #000 !important;
   border: 2px solid red;
   padding: 1em;
+  margin-left:5px;
   margin-bottom: 2em;
   background-color: #f0f0f0;
   font: bold smaller sans-serif;
@@ -39,15 +40,15 @@
   background: #141;
   
   #main {
-    margin-left: 17em;
-    padding: 1em;
+    float: left;
+    margin-left: 23em;
+    padding: 2em;
     background: white;
   }
   
   #side {
     float: left;
     padding: 1em 2em;
-    width: 13em;
     height: 18em;
     background: #141;
   }
