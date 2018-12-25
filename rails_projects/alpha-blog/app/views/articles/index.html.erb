@@ -1,0 +1,12 @@
+<h1>Showing Selected Article</h1>
+<% @articles.each  do |article| %>
+    <%=  puts article %>
+<p>
+  Title: <%= article.title %>
+</p>
+
+<p>
+  Description: <%= article.description %>
+</p>
+  <hr>
+ <% end %>
